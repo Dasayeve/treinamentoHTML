@@ -1,0 +1,69 @@
+		header{
+			background-color: #191970;
+			width: 100%;
+			height: 250px;
+			text-align: center;
+		}
+		#navegacao{
+			background-color: #FFFFFF;
+			text-align: center;
+			font-size: 25px;
+		}
+		h1{
+			text-align: center;
+			font-family: arial;
+			padding-top: 15px;
+		}
+		h2{
+			text-align: center;
+			font-family: arial;
+			padding-top: 10px;
+		}
+
+		p{
+			text-align: justify;			
+			font-family: arial;
+			padding-top: 16px;
+			font-size: 16px;
+		}
+		.conteudo{
+			padding: 15px;
+		}
+		footer{
+			background-color: #191970;
+			width: 100%;
+			height: 350px;
+		}
+		#rodape{
+			text-align: center;
+			color: #fff;
+			font-family: arial;
+			font-size: 20px;
+
+		}
+		#autor{
+			text-align: center;
+		}
+		.img-geral{
+			border-radius: 100px;
+		}
+		a:hover{
+			background: #191970;
+			color: #fff;
+		}	
+		.video{
+			text-align: center;
+			width: 100%;
+			height: 320px;
+			padding: 30px;
+		}
+		form{
+			font-family: arial;
+			font-size: 20px;
+			text-align: center;;
+		}
+		#redes-sociais{
+			text-align: center;
+			background: #FFF;
+			padding: 5px;
+		}
